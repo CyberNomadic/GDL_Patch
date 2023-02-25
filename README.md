@@ -11,4 +11,6 @@ As of now only NTSC-U builds are supported.
 - Inventory text no longer displays over the power meter
 - Inventory names are improved.
 
-![image](https://user-images.githubusercontent.com/11414210/221369370-8a1b885f-cf2b-4210-9544-56efa48e8aec.png)
+[https://github.com/marco-calautti/DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
+
+**All patches can be applied via DeltaPatcher:**
