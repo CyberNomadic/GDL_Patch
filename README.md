@@ -10,6 +10,10 @@ As of now only NTSC-U builds are supported.
 - The 11th item in the inventory is now fully accessible
 - Inventory text no longer displays over the power meter
 - Inventory names are improved.
+- Scroll Burn FX are fixed.
+- Added a cheat code "CYBMOS" to play as a previously unplayable High Resolution Warrior
+
+**Special Thanks to @MosesofEgypt**
 
 ![image](https://user-images.githubusercontent.com/11414210/221369475-533f17ff-1ba4-49c9-8668-961e3758616f.png)
 
